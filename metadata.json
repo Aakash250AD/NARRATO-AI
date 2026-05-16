@@ -1,0 +1,5 @@
+{
+  "name": "NarratoAI",
+  "description": "An AI-powered platform for generating professional narrative reports from structured data files using Gemini 3.",
+  "requestFramePermissions": []
+}
